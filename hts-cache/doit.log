@@ -1,5 +1,5 @@
--qwr5C2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A100000000%c10%f#f -F "Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.1) Gecko/20020826" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://brilliant-usage-785173.framer.app/ -O1 "E:\My Framer site\my_framer work" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js +*.svg +*.webp +*.woff +*.woff2 +*.ttf +*.eot +*.framerusercontent.com/* -ad.doubleclick.net/* -mime:application/foobar
-File generated automatically on Fri, 08 Aug 2025 11:22:49, do NOT edit
+-qwr5C2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A100000000%c10%f#f -F "Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.1) Gecko/20020826" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://brilliant-usage-785173.framer.app/ -O1 "E:\New folder\My framerSite" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js +*.svg +*.webp +*.woff +*.woff2 +*.ttf +*.eot +*.framerusercontent.com/* -ad.doubleclick.net/* -mime:application/foobar
+File generated automatically on Mon, 11 Aug 2025 14:00:57, do NOT edit
 
 To update a mirror, just launch httrack without any parameters
 The existing cache will be used (and modified)
